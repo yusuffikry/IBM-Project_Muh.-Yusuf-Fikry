@@ -56,7 +56,6 @@ This project explores the relationship between music streaming habits and self-r
 ##  Visualization
 
 ![Bar Chart Rata-rata Anxiety per Platform](.![barchart IBM](https://github.com/user-attachments/assets/31798d67-822e-44bb-b530-e36b2aaddce4)
-.png)
 
 ##  Conclusion & Recommendations
 
