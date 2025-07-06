@@ -58,10 +58,6 @@ This project explores the relationship between music streaming habits and self-r
 ![Bar Chart Rata-rata Anxiety per Platform](.![barchart IBM](https://github.com/user-attachments/assets/31798d67-822e-44bb-b530-e36b2aaddce4)
 .png)
 
-> Replace with actual path or markdown image URL after upload.
-
----
-
 ##  Conclusion & Recommendations
 
 - There may be a correlation between preferred streaming platform and anxiety levels.
