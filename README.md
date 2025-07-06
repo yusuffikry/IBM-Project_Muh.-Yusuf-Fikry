@@ -80,7 +80,7 @@ This project leverages **IBM Granite 3.3 8B Instruct Model** via **Replicate**, 
 ## 📁 Files
 
 - `IBM_Project_Muh_Yusuf_Fikry.ipynb` – Main analysis notebook
-- `Anxiety_Music_Project_Presentation.pptx` – Presentation slide deck
+- `Anxiety_Music_Project_Presentation.pdf` – Presentation slide deck
 - `README.md` – This documentation
 
 ---
